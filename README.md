@@ -1,4 +1,4 @@
-# Real Time Traffic Detection From Tweets
+# Real Time Traffic Detection Using Twitter
 
 A deep learning based real-time tarffic prediction model that is used to detect the road traffic using twitter data.
  
